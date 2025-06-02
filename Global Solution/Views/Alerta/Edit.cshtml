@@ -1,0 +1,45 @@
+﻿@model Global_Solution.Application.Dtos.AlertaDto
+
+@{
+    ViewData["Title"] = "Editar Alerta";
+}
+
+<h2>Editar Alerta</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="ID_ALERTA" />
+
+    <div class="form-group">
+        <label>ID Área</label>
+        <input asp-for="ID_AREA" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>ID Leitura Gatilho</label>
+        <input asp-for="ID_LEITURA_GATILHO" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Timestamp</label>
+        <input asp-for="TIMESTAMP_ALERTA" type="datetime-local" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Tipo Alerta</label>
+        <select asp-for="TIPO_ALERTA" class="form-control">
+            <option value="PREVENTIVO">PREVENTIVO</option>
+            <option value="EMERGENCIA">EMERGENCIA</option>
+            <option value="EVACUACAO">EVACUACAO</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Mensagem</label>
+        <input asp-for="MENSAGEM_ALERTA" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Status</label>
+        <select asp-for="STATUS_ALERTA" class="form-control">
+            <option value="ATIVO">ATIVO</option>
+            <option value="RESOLVIDO">RESOLVIDO</option>
+            <option value="CANCELADO">CANCELADO</option>
+        </select>
+    </div>
+    <input type="submit" value="Salvar Alterações" class="btn btn-primary" />
+</form>

@@ -1,0 +1,31 @@
+﻿@model Global_Solution.Application.Dtos.UsuarioDto
+
+@{
+    ViewData["Title"] = "Detalhes do Usuário";
+}
+
+<h2>Detalhes do Usuário</h2>
+
+<div class="mb-3">
+    <label><strong>Nome:</strong></label>
+    <p>@Model.NOME_USUARIO</p>
+</div>
+<div class="mb-3">
+    <label><strong>Email:</strong></label>
+    <p>@Model.EMAIL</p>
+</div>
+<div class="mb-3">
+    <label><strong>Telefone:</strong></label>
+    <p>@Model.TELEFONE</p>
+</div>
+<div class="mb-3">
+    <label><strong>Tipo:</strong></label>
+    <p>@Model.TIPO_USUARIO</p>
+</div>
+<div class="mb-3">
+    <label><strong>Data de Cadastro:</strong></label>
+    <p>@Model.DATA_CADASTRO.ToString("dd/MM/yyyy")</p>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.ID_USUARIO" class="btn btn-primary">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Voltar</a>

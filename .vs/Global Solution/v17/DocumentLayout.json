@@ -1,0 +1,1493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\sensor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\sensor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\notificacao\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\notificacao\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\leiturasensor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\leiturasensor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\inscricaoalerta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\inscricaoalerta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\arearisco\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\arearisco\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\services\\areariscoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\services\\areariscoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\repositories\\areariscorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\repositories\\areariscorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\presentation\\controllers\\areariscocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\presentation\\controllers\\areariscocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\alerta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\alerta\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\presentation\\controllers\\alertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\presentation\\controllers\\alertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\presentation\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\presentation\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\services\\usuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\services\\usuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\services\\sensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\services\\sensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\services\\alertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\services\\alertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\alerta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\alerta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\entities\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\entities\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\sensor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\sensor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\notificacao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\notificacao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\presentation\\controllers\\notificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\presentation\\controllers\\notificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\appdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\appdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\entities\\notificacaoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\entities\\notificacaoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\services\\notificacaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\services\\notificacaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\dtos\\notificacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\dtos\\notificacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\dtos\\leiturasensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\dtos\\leiturasensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\dtos\\inscricaoalertadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\dtos\\inscricaoalertadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\entities\\inscricaoalertaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\entities\\inscricaoalertaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\repositories\\inscricaoalertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\repositories\\inscricaoalertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\services\\inscricaoalertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\services\\inscricaoalertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\inscricaoalerta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\inscricaoalerta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\inscricaoalerta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\inscricaoalerta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\presentation\\controllers\\inscricaoalertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\presentation\\controllers\\inscricaoalertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\entities\\leiturasensorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\entities\\leiturasensorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\arearisco\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\arearisco\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\alerta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\alerta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\alerta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\alerta\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\alerta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\alerta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\dtos\\alertadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\dtos\\alertadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\arearisco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\arearisco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\arearisco\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\arearisco\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\arearisco\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\arearisco\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\dtos\\areariscodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\dtos\\areariscodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\inscricaoalerta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\inscricaoalerta\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\inscricaoalerta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\inscricaoalerta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\leiturasensor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\leiturasensor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\leiturasensor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\leiturasensor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\leiturasensor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\leiturasensor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\leiturasensor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\leiturasensor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\presentation\\controllers\\leiturasensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\presentation\\controllers\\leiturasensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\notificacao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\notificacao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\notificacao\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\notificacao\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\notificacao\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\notificacao\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\presentation\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\presentation\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\sensor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\sensor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\sensor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\sensor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\sensor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\sensor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\interface\\isensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\interface\\isensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\interface\\isensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\interface\\isensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\dtos\\sensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\dtos\\sensordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\entities\\sensorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\entities\\sensorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\services\\leiturasensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\services\\leiturasensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\interface\\ialertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\interface\\ialertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\entities\\areariscoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\entities\\areariscoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\entities\\alertaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\entities\\alertaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\global solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\global solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\interface\\iareariscoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\interface\\iareariscoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\interface\\iusuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\interface\\iusuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\interface\\inotificacaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\interface\\inotificacaoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\interface\\ileiturasensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\interface\\ileiturasensorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\interface\\iinscricaoalertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\interface\\iinscricaoalertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\application\\interface\\ialertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\application\\interface\\ialertaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\repositories\\alertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\repositories\\alertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\infrastructure\\data\\repositories\\leiturasensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\infrastructure\\data\\repositories\\leiturasensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\interface\\ileiturasensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\interface\\ileiturasensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\interface\\iinscricaoalertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\interface\\iinscricaoalertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\interface\\iareariscorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\interface\\iareariscorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\domain\\interface\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\domain\\interface\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|c:\\users\\microsoft\\desktop\\dotnet\\global solution\\global solution\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB13B41-6E7F-406E-ACDB-E7A857D88EFF}|Global Solution\\Global Solution.csproj|solutionrelative:global solution\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Alerta\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Delete.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Alerta\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:54:52.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:29:25.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlertaController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\AlertaController.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Presentation\\Controllers\\AlertaController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\AlertaController.cs",
+              "RelativeToolTip": "Global Solution\\Presentation\\Controllers\\AlertaController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:34:11.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\AreaRisco\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Delete.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\AreaRisco\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:53:14.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AreaRiscoController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\AreaRiscoController.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Presentation\\Controllers\\AreaRiscoController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\AreaRiscoController.cs",
+              "RelativeToolTip": "Global Solution\\Presentation\\Controllers\\AreaRiscoController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:32:54.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AreaRiscoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\AreaRiscoRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\Repositories\\AreaRiscoRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\AreaRiscoRepository.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\Repositories\\AreaRiscoRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:25:26.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AreaRiscoApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\AreaRiscoApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Services\\AreaRiscoApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\AreaRiscoApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Services\\AreaRiscoApplication.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:16:35.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\InscricaoAlerta\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Delete.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\InscricaoAlerta\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:51:13.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\LeituraSensor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Delete.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\LeituraSensor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:49:27.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Notificacao\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Delete.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Notificacao\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:47:16.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Sensor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Delete.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Sensor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:43:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Presentation\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Global Solution\\Presentation\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:34:16.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T04:53:14.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Create.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Notificacao\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Create.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Notificacao\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:45:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T04:54:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Sensor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Create.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Sensor\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:42:42.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NotificacaoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\NotificacaoEntity.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Entities\\NotificacaoEntity.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\NotificacaoEntity.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Entities\\NotificacaoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:20:07.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NotificacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\NotificacaoDto.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Dtos\\NotificacaoDto.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\NotificacaoDto.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Dtos\\NotificacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:12:59.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SensorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\SensorApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Services\\SensorApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\SensorApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Services\\SensorApplication.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwCQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:16:49.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlertaApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\AlertaApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Services\\AlertaApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\AlertaApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Services\\AlertaApplication.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:17:18.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Alerta\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Edit.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Alerta\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:54:06.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T04:53:31.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\UsuarioApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Services\\UsuarioApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\UsuarioApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Services\\UsuarioApplication.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:17:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\UsuarioEntity.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Entities\\UsuarioEntity.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\UsuarioEntity.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Entities\\UsuarioEntity.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:19:36.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:12:22.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InscricaoAlertaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\InscricaoAlertaDto.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Dtos\\InscricaoAlertaDto.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\InscricaoAlertaDto.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Dtos\\InscricaoAlertaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:12:43.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InscricaoAlertaApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\InscricaoAlertaApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Services\\InscricaoAlertaApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\InscricaoAlertaApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Services\\InscricaoAlertaApplication.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwGIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:17:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Program.cs",
+              "RelativeToolTip": "Global Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:35:30.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SensorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\SensorRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\Repositories\\SensorRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\SensorRepository.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\Repositories\\SensorRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:27:15.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\NotificacaoController.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Presentation\\Controllers\\NotificacaoController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\NotificacaoController.cs",
+              "RelativeToolTip": "Global Solution\\Presentation\\Controllers\\NotificacaoController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:34:38.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\NotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\Repositories\\NotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\NotificacaoRepository.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\Repositories\\NotificacaoRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:29:52.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotificacaoApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\NotificacaoApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Services\\NotificacaoApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\NotificacaoApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Services\\NotificacaoApplication.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:17:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LeituraSensorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\LeituraSensorDto.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Dtos\\LeituraSensorDto.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\LeituraSensorDto.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Dtos\\LeituraSensorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:12:15.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\InscricaoAlerta\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Edit.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\InscricaoAlerta\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:50:53.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\AppData\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\AppData\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\AppData\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\AppData\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:53:21.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Create.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\InscricaoAlerta\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Create.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\InscricaoAlerta\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:50:14.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Details.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\InscricaoAlerta\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Details.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\InscricaoAlerta\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:50:36.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LeituraSensorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\LeituraSensorEntity.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Entities\\LeituraSensorEntity.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\LeituraSensorEntity.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Entities\\LeituraSensorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:19:16.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InscricaoAlertaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\InscricaoAlertaRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\Repositories\\InscricaoAlertaRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\InscricaoAlertaRepository.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\Repositories\\InscricaoAlertaRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:29:43.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InscricaoAlertaController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\InscricaoAlertaController.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Presentation\\Controllers\\InscricaoAlertaController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\InscricaoAlertaController.cs",
+              "RelativeToolTip": "Global Solution\\Presentation\\Controllers\\InscricaoAlertaController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:34:30.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InscricaoAlertaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\InscricaoAlertaEntity.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Entities\\InscricaoAlertaEntity.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\InscricaoAlertaEntity.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Entities\\InscricaoAlertaEntity.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:19:51.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Alerta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Index.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Alerta\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:53:42.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\InscricaoAlerta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\InscricaoAlerta\\Index.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\InscricaoAlerta\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:49:51.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AlertaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\AlertaDto.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Dtos\\AlertaDto.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\AlertaDto.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Dtos\\AlertaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:21:50.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Create.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\AreaRisco\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Create.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\AreaRisco\\Create.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:52:31.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Details.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Alerta\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Details.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Alerta\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:54:39.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Create.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Alerta\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Alerta\\Create.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Alerta\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:53:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Index.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\AreaRisco\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Index.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\AreaRisco\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:52:20.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Details.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\AreaRisco\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Details.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\AreaRisco\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:52:47.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\AreaRisco\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\AreaRisco\\Edit.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\AreaRisco\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:53:00.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AreaRiscoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\AreaRiscoDto.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Dtos\\AreaRiscoDto.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\AreaRiscoDto.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Dtos\\AreaRiscoDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:11:51.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\LeituraSensor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Create.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\LeituraSensor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:48:33.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\LeituraSensor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Edit.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\LeituraSensor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:48:55.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Index.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Notificacao\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Index.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Notificacao\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:44:58.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\LeituraSensor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Index.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\LeituraSensor\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:48:20.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\LeituraSensor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\LeituraSensor\\Details.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\LeituraSensor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:49:13.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LeituraSensorController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\LeituraSensorController.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Presentation\\Controllers\\LeituraSensorController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\LeituraSensorController.cs",
+              "RelativeToolTip": "Global Solution\\Presentation\\Controllers\\LeituraSensorController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv0wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:33:21.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Details.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Notificacao\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Details.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Notificacao\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:47:54.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Notificacao\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Notificacao\\Edit.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Notificacao\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:45:42.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Sensor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Details.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Sensor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:43:50.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Sensor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Edit.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Sensor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:44:10.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Sensor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Sensor\\Index.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Sensor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:42:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Presentation\\Controllers\\SensorController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Presentation\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "Global Solution\\Presentation\\Controllers\\SensorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:33:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ISensorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\ISensorRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Interface\\ISensorRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\ISensorRepository.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Interface\\ISensorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:21:59.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ISensorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\ISensorApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Interface\\ISensorApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\ISensorApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Interface\\ISensorApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:14:15.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T04:52:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T04:53:47.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SensorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\SensorEntity.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Entities\\SensorEntity.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\SensorEntity.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Entities\\SensorEntity.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:19:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SensorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\SensorDto.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Dtos\\SensorDto.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Dtos\\SensorDto.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Dtos\\SensorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:12:01.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LeituraSensorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\LeituraSensorApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Services\\LeituraSensorApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Services\\LeituraSensorApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Services\\LeituraSensorApplication.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:17:06.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IAlertaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IAlertaRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Interface\\IAlertaRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IAlertaRepository.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Interface\\IAlertaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:22:39.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AreaRiscoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\AreaRiscoEntity.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Entities\\AreaRiscoEntity.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\AreaRiscoEntity.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Entities\\AreaRiscoEntity.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:18:50.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AlertaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\AlertaEntity.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Entities\\AlertaEntity.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Entities\\AlertaEntity.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Entities\\AlertaEntity.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:19:25.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Global Solution.csproj",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Global Solution.csproj",
+              "RelativeDocumentMoniker": "Global Solution\\Global Solution.csproj",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Global Solution.csproj",
+              "RelativeToolTip": "Global Solution\\Global Solution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T00:02:25.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IAreaRiscoApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IAreaRiscoApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Interface\\IAreaRiscoApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IAreaRiscoApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Interface\\IAreaRiscoApplication.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:13:58.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Interface\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Interface\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:22:54.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IUsuarioApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IUsuarioApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Interface\\IUsuarioApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IUsuarioApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Interface\\IUsuarioApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:15:10.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T04:50:29.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Global Solution\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Global Solution\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T04:50:13.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "INotificacaoApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\INotificacaoApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Interface\\INotificacaoApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\INotificacaoApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Interface\\INotificacaoApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:15:51.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ILeituraSensorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\ILeituraSensorApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Interface\\ILeituraSensorApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\ILeituraSensorApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Interface\\ILeituraSensorApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:14:40.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IInscricaoAlertaApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IInscricaoAlertaApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Interface\\IInscricaoAlertaApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IInscricaoAlertaApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Interface\\IInscricaoAlertaApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:15:33.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IAlertaApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IAlertaApplication.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Application\\Interface\\IAlertaApplication.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Application\\Interface\\IAlertaApplication.cs",
+              "RelativeToolTip": "Global Solution\\Application\\Interface\\IAlertaApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:14:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AlertaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\AlertaRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\Repositories\\AlertaRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\AlertaRepository.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\Repositories\\AlertaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:29:15.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "LeituraSensorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\LeituraSensorRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Infrastructure\\Data\\Repositories\\LeituraSensorRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Infrastructure\\Data\\Repositories\\LeituraSensorRepository.cs",
+              "RelativeToolTip": "Global Solution\\Infrastructure\\Data\\Repositories\\LeituraSensorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:28:52.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ILeituraSensorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\ILeituraSensorRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Interface\\ILeituraSensorRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\ILeituraSensorRepository.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Interface\\ILeituraSensorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:22:16.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IInscricaoAlertaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IInscricaoAlertaRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Interface\\IInscricaoAlertaRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IInscricaoAlertaRepository.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Interface\\IInscricaoAlertaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:23:21.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IAreaRiscoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IAreaRiscoRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Interface\\IAreaRiscoRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\IAreaRiscoRepository.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Interface\\IAreaRiscoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:21:39.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "INotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\INotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Domain\\Interface\\INotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Domain\\Interface\\INotificacaoRepository.cs",
+              "RelativeToolTip": "Global Solution\\Domain\\Interface\\INotificacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:23:44.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\appsettings.json",
+              "RelativeDocumentMoniker": "Global Solution\\appsettings.json",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\appsettings.json",
+              "RelativeToolTip": "Global Solution\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T01:43:08.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Global Solution\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\appsettings.Development.json",
+              "RelativeToolTip": "Global Solution\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T01:43:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Global Solution\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\DotNet\\Global Solution\\Global Solution\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Global Solution\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:57:44.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

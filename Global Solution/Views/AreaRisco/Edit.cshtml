@@ -1,0 +1,14 @@
+﻿@model Global_Solution.Application.Dtos.AreaRiscoDto
+
+@{
+    ViewData["Title"] = "Editar Área de Risco";
+}
+
+<h2>Editar Área de Risco</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="ID_AREA" />
+
+    @* Reutiliza os mesmos campos da Create *@
+    @Html.Partial("Create", Model)
+</form>

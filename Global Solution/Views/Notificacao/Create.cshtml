@@ -1,0 +1,39 @@
+﻿@model Global_Solution.Application.Dtos.NotificacaoDto
+
+@{
+    ViewData["Title"] = "Criar Notificação";
+}
+
+<h2>Criar Nova Notificação</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label>ID do Alerta</label>
+        <input asp-for="ID_ALERTA" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>ID do Usuário</label>
+        <input asp-for="ID_USUARIO" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Data e Hora de Envio</label>
+        <input asp-for="TIMESTAMP_ENVIO" class="form-control" type="datetime-local" />
+    </div>
+    <div class="form-group">
+        <label>Canal de Envio</label>
+        <select asp-for="CANAL_ENVIO" class="form-control">
+            <option value="EMAIL">EMAIL</option>
+            <option value="SMS">SMS</option>
+            <option value="PUSH">PUSH</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Status do Envio</label>
+        <select asp-for="STATUS_ENVIO" class="form-control">
+            <option value="ENVIADO">ENVIADO</option>
+            <option value="FALHA">FALHA</option>
+            <option value="RECEBIDO">RECEBIDO</option>
+        </select>
+    </div>
+    <input type="submit" value="Salvar" class="btn btn-success" />
+</form>

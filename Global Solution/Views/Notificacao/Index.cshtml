@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Global_Solution.Application.Dtos.NotificacaoDto>
+
+@{
+    ViewData["Title"] = "Notificações";
+}
+
+<h2>Lista de Notificações</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nova Notificação</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID Usuário</th>
+            <th>Data Envio</th>
+            <th>Canal</th>
+            <th>Status</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var n in Model)
+        {
+            <tr>
+                <td>@n.ID_USUARIO</td>
+                <td>@n.TIMESTAMP_ENVIO.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@n.CANAL_ENVIO</td>
+                <td>@n.STATUS_ENVIO</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@n.ID_NOTIFICACAO">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@n.ID_NOTIFICACAO">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@n.ID_NOTIFICACAO">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

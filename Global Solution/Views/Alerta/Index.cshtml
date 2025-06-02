@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Global_Solution.Application.Dtos.AlertaDto>
+
+@{
+    ViewData["Title"] = "Alertas";
+}
+
+<h2>Lista de Alertas</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Novo Alerta</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tipo</th>
+            <th>Mensagem</th>
+            <th>Status</th>
+            <th>Timestamp</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var alerta in Model)
+        {
+            <tr>
+                <td>@alerta.ID_ALERTA</td>
+                <td>@alerta.TIPO_ALERTA</td>
+                <td>@alerta.MENSAGEM_ALERTA</td>
+                <td>@alerta.STATUS_ALERTA</td>
+                <td>@alerta.TIMESTAMP_ALERTA.ToString("g")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@alerta.ID_ALERTA">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@alerta.ID_ALERTA">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@alerta.ID_ALERTA">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

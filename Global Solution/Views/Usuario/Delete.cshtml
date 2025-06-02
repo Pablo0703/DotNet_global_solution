@@ -1,0 +1,24 @@
+﻿@model Global_Solution.Application.Dtos.UsuarioDto
+
+@{
+    ViewData["Title"] = "Excluir Usuário";
+}
+
+<h2>Confirmar Exclusão</h2>
+
+<h4>Você tem certeza que deseja excluir este usuário?</h4>
+
+<div class="mb-3">
+    <label><strong>Nome:</strong></label>
+    <p>@Model.NOME_USUARIO</p>
+</div>
+<div class="mb-3">
+    <label><strong>Email:</strong></label>
+    <p>@Model.EMAIL</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="ID_USUARIO" />
+    <input type="submit" value="Confirmar Exclusão" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

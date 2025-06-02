@@ -1,0 +1,35 @@
+﻿@model Global_Solution.Application.Dtos.InscricaoAlertaDto
+
+@{
+    ViewData["Title"] = "Detalhes da Inscrição";
+}
+
+<h2>Detalhes da Inscrição</h2>
+
+<div class="mb-3">
+    <strong>ID Usuário:</strong>
+    <p>@Model.ID_USUARIO</p>
+</div>
+<div class="mb-3">
+    <strong>ID Área:</strong>
+    <p>@Model.ID_AREA</p>
+</div>
+<div class="mb-3">
+    <strong>Timestamp:</strong>
+    <p>@Model.TIMESTAMP_INSCRICAO.ToString("dd/MM/yyyy HH:mm")</p>
+</div>
+<div class="mb-3">
+    <strong>Receber Email:</strong>
+    <p>@(Model.RECEBER_EMAIL == true ? "Sim" : "Não")</p>
+</div>
+<div class="mb-3">
+    <strong>Receber SMS:</strong>
+    <p>@(Model.RECEBER_SMS == true ? "Sim" : "Não")</p>
+</div>
+<div class="mb-3">
+    <strong>Receber Push:</strong>
+    <p>@(Model.RECEBER_PUSH == true ? "Sim" : "Não")</p>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.ID_INSCRICAO" class="btn btn-primary">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Voltar</a>
