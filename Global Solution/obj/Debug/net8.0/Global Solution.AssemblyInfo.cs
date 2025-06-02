@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Global Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3461e1f53fc875174ccedcb035a97b4f9218565")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a748df4756d69163e6b42ba48eb010b869c61e0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Global Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Global Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

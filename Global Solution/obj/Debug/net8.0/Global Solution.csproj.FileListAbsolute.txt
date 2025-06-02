@@ -146,3 +146,4 @@ C:\Users\Microsoft\Desktop\DotNet\Global Solution\Global Solution\obj\Debug\net8
 C:\Users\Microsoft\Desktop\DotNet\Global Solution\Global Solution\obj\Debug\net8.0\Global Solution.pdb
 C:\Users\Microsoft\Desktop\DotNet\Global Solution\Global Solution\obj\Debug\net8.0\Global Solution.genruntimeconfig.cache
 C:\Users\Microsoft\Desktop\DotNet\Global Solution\Global Solution\obj\Debug\net8.0\ref\Global Solution.dll
+C:\Users\Microsoft\Desktop\DotNet\Global Solution\Global Solution\obj\Debug\net8.0\Global Solution.sourcelink.json

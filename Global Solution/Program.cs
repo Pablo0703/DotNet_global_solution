@@ -5,20 +5,17 @@ using Global_Solution.Domain.Interfaces;
 using Global_Solution.Infrastructure.Data.AppData;
 using Global_Solution.Infrastructure.Data.Repositories;
 using Microsoft.EntityFrameworkCore;
-using Oracle.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//  Recuperando a connection string do appsettings.json
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-//  Configurando o DbContext com Oracle
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseOracle(connectionString)
            .EnableSensitiveDataLogging()
            .LogTo(Console.WriteLine, LogLevel.Information));
 
-//  Application Services
+// Application Services
 builder.Services.AddScoped<IAlertaApplication, AlertaApplication>();
 builder.Services.AddScoped<IAreaRiscoApplication, AreaRiscoApplication>();
 builder.Services.AddScoped<IInscricaoAlertaApplication, InscricaoAlertaApplication>();
@@ -27,7 +24,7 @@ builder.Services.AddScoped<INotificacaoApplication, NotificacaoApplication>();
 builder.Services.AddScoped<ISensorApplication, SensorApplication>();
 builder.Services.AddScoped<IUsuarioApplication, UsuarioApplication>();
 
-//  Domain Repositories
+// Domain Repositories
 builder.Services.AddScoped<IAlertaRepository, AlertaRepository>();
 builder.Services.AddScoped<IAreaRiscoRepository, AreaRiscoRepository>();
 builder.Services.AddScoped<IInscricaoAlertaRepository, InscricaoAlertaRepository>();
@@ -36,16 +33,25 @@ builder.Services.AddScoped<INotificacaoRepository, NotificacaoRepository>();
 builder.Services.AddScoped<ISensorRepository, SensorRepository>();
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
+// Swagger (API docs)
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 // MVC
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-//  Middleware
+// Middleware
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
+}
+else
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
