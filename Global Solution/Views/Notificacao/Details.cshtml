@@ -1,0 +1,16 @@
+﻿@model Global_Solution.Application.Dtos.NotificacaoDto
+
+@{
+    ViewData["Title"] = "Detalhes da Notificação";
+}
+
+<h2>Detalhes da Notificação</h2>
+
+<div class="mb-3"><strong>ID Alerta:</strong> @Model.ID_ALERTA</div>
+<div class="mb-3"><strong>ID Usuário:</strong> @Model.ID_USUARIO</div>
+<div class="mb-3"><strong>Data Envio:</strong> @Model.TIMESTAMP_ENVIO.ToString("dd/MM/yyyy HH:mm")</div>
+<div class="mb-3"><strong>Canal:</strong> @Model.CANAL_ENVIO</div>
+<div class="mb-3"><strong>Status:</strong> @Model.STATUS_ENVIO</div>
+
+<a asp-action="Edit" asp-route-id="@Model.ID_NOTIFICACAO" class="btn btn-primary">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Voltar</a>

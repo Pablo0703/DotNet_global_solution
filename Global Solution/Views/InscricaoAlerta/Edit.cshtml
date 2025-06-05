@@ -1,0 +1,38 @@
+﻿@model Global_Solution.Application.Dtos.InscricaoAlertaDto
+
+@{
+    ViewData["Title"] = "Editar Inscrição";
+}
+
+<h2>Editar Inscrição</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="ID_INSCRICAO" />
+
+    <div class="form-group">
+        <label>ID Usuário</label>
+        <input asp-for="ID_USUARIO" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>ID Área</label>
+        <input asp-for="ID_AREA" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Timestamp</label>
+        <input asp-for="TIMESTAMP_INSCRICAO" type="datetime-local" class="form-control" />
+    </div>
+    <div class="form-group form-check">
+        <input asp-for="RECEBER_EMAIL" class="form-check-input" />
+        <label class="form-check-label">Receber Email</label>
+    </div>
+    <div class="form-group form-check">
+        <input asp-for="RECEBER_SMS" class="form-check-input" />
+        <label class="form-check-label">Receber SMS</label>
+    </div>
+    <div class="form-group form-check">
+        <input asp-for="RECEBER_PUSH" class="form-check-input" />
+        <label class="form-check-label">Receber Push</label>
+    </div>
+
+    <input type="submit" value="Salvar Alterações" class="btn btn-primary" />
+</form>

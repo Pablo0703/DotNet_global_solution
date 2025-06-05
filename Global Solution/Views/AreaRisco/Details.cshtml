@@ -1,0 +1,27 @@
+﻿@model Global_Solution.Application.Dtos.AreaRiscoDto
+
+@{
+    ViewData["Title"] = "Detalhes da Área de Risco";
+}
+
+<h2>Detalhes da Área de Risco</h2>
+
+<dl class="row">
+    <dt class="col-sm-3">Nome:</dt>
+    <dd class="col-sm-9">@Model.NOME_AREA</dd>
+
+    <dt class="col-sm-3">Latitude:</dt>
+    <dd class="col-sm-9">@Model.LATITUDE</dd>
+
+    <dt class="col-sm-3">Longitude:</dt>
+    <dd class="col-sm-9">@Model.LONGITUDE</dd>
+
+    <dt class="col-sm-3">Fonte de Dados:</dt>
+    <dd class="col-sm-9">@Model.FONTE_DADOS</dd>
+
+    <dt class="col-sm-3">Descrição:</dt>
+    <dd class="col-sm-9">@Model.DESCRICAO</dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.ID_AREA" class="btn btn-primary">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Voltar</a>

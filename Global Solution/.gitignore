@@ -1,0 +1,21 @@
+# Ignore arquivos e pastas do Visual Studio
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.vsidx
+*.v2
+*.cache
+*.log
+
+# Pasta de build
+bin/
+obj/
+
+# Pastas temporárias do Visual Studio
+*.pdb
+*.metaproj
+*.tmp
+
+# Outros
+*.tlog

@@ -1,0 +1,24 @@
+﻿@model Global_Solution.Application.Dtos.InscricaoAlertaDto
+
+@{
+    ViewData["Title"] = "Excluir Inscrição";
+}
+
+<h2>Confirmar Exclusão</h2>
+
+<h4>Você tem certeza que deseja excluir esta inscrição?</h4>
+
+<div class="mb-3">
+    <strong>ID Usuário:</strong>
+    <p>@Model.ID_USUARIO</p>
+</div>
+<div class="mb-3">
+    <strong>ID Área:</strong>
+    <p>@Model.ID_AREA</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="ID_INSCRICAO" />
+    <input type="submit" value="Confirmar Exclusão" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

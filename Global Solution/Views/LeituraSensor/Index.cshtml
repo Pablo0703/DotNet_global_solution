@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Global_Solution.Application.Dtos.LeituraSensorDto>
+
+@{
+    ViewData["Title"] = "Leituras de Sensores";
+}
+
+<h2>Leituras de Sensores</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nova Leitura</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Sensor</th>
+            <th>Valor</th>
+            <th>Unidade</th>
+            <th>Data/Hora</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var l in Model)
+        {
+            <tr>
+                <td>@l.ID_SENSOR</td>
+                <td>@l.VALOR_LEITURA</td>
+                <td>@l.UNIDADE_MEDIDA</td>
+                <td>@l.TIMESTAMP_LEITURA.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@l.ID_LEITURA">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@l.ID_LEITURA">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@l.ID_LEITURA">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

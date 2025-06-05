@@ -1,0 +1,35 @@
+# Ignora arquivos e pastas desnecessárias
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/.git/
+**/.gitignore
+**/.dockerignore
+*.user
+*.dbmdl
+*.jfm
+*.suo
+*.cache
+*.log
+*.nupkg
+*.snupkg
+*.tmp
+
+# Ignora arquivos de build do Visual Studio
+Dockerfile*
+docker-compose*
+
+# Node e outras possíveis dependências
+node_modules/
+npm-debug.log
+
+# Outros arquivos que não devem ir pro build da imagem
+README.md
+LICENSE
+.vsconfig
+
+# Opcional: se quiser permitir que alguns arquivos .git passem, remova essas exceções:
+# !.git/HEAD
+# !.git/config
+# !.git/refs/heads/**

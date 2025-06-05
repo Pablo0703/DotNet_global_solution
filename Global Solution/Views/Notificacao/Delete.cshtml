@@ -1,0 +1,19 @@
+﻿@model Global_Solution.Application.Dtos.NotificacaoDto
+
+@{
+    ViewData["Title"] = "Excluir Notificação";
+}
+
+<h2>Confirmar Exclusão</h2>
+
+<p>Tem certeza que deseja excluir esta notificação?</p>
+
+<div class="mb-3"><strong>ID Alerta:</strong> @Model.ID_ALERTA</div>
+<div class="mb-3"><strong>ID Usuário:</strong> @Model.ID_USUARIO</div>
+<div class="mb-3"><strong>Data Envio:</strong> @Model.TIMESTAMP_ENVIO.ToString("dd/MM/yyyy HH:mm")</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="ID_NOTIFICACAO" />
+    <input type="submit" value="Confirmar Exclusão" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,20 @@
+﻿@model Global_Solution.Application.Dtos.LeituraSensorDto
+
+@{
+    ViewData["Title"] = "Detalhes da Leitura";
+}
+
+<h2>Detalhes da Leitura</h2>
+
+<div class="mb-3">
+    <strong>ID Sensor:</strong> @Model.ID_SENSOR
+</div>
+<div class="mb-3">
+    <strong>Valor:</strong> @Model.VALOR_LEITURA @Model.UNIDADE_MEDIDA
+</div>
+<div class="mb-3">
+    <strong>Data/Hora:</strong> @Model.TIMESTAMP_LEITURA.ToString("dd/MM/yyyy HH:mm")
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.ID_LEITURA" class="btn btn-primary">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Voltar</a>
