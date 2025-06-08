@@ -126,20 +126,20 @@ docker run -d -p 5000:80 global-solution
 
 | Controller                | Imagem                                         |
 | ------------------------- | ---------------------------------------------- |
-| ControllerUsuario         | ![image](https://github.com/user-attachments/assets/dd60891a-3c06-4aac-8228-9ef197faa467)
+| ControllerUsuario         |  ![image](https://github.com/user-attachments/assets/dd60891a-3c06-4aac-8228-9ef197faa467)|
        
-| ControllerSensor          | ![image](https://github.com/user-attachments/assets/ae4fd5c0-070b-4ff7-a80e-1d833f6ef311)
-          |
-| ControllerNotificacao     | ![image](https://github.com/user-attachments/assets/47346f24-369c-4f41-b555-3e87316bf8d8)
-      |
-| ControllerLeituraSensor   | ![image](https://github.com/user-attachments/assets/90d90718-6ff9-45a2-8d7f-512b0eecfdf8)
-   |
-| ControllerInscricaoAlerta | ![image](https://github.com/user-attachments/assets/08cf8fb2-97ac-40d8-9d1d-681d91699a01)
-|
-| ControllerAreaRisco       | ![image](https://github.com/user-attachments/assets/8e3079e6-1f68-4689-bb16-ca3b52d4b409)
-     |
-| ControllerAlerta          | ![image](https://github.com/user-attachments/assets/8037e0d8-f973-44db-99fa-80882576d82b)
-         |
+| ControllerSensor          |  ![image](https://github.com/user-attachments/assets/ae4fd5c0-070b-4ff7-a80e-1d833f6ef311)|
+          
+| ControllerNotificacao     |  ![image](https://github.com/user-attachments/assets/47346f24-369c-4f41-b555-3e87316bf8d8)|
+      
+| ControllerLeituraSensor   |  ![image](https://github.com/user-attachments/assets/90d90718-6ff9-45a2-8d7f-512b0eecfdf8)|
+   
+| ControllerInscricaoAlerta |  ![image](https://github.com/user-attachments/assets/08cf8fb2-97ac-40d8-9d1d-681d91699a01)|
+
+| ControllerAreaRisco       |  ![image](https://github.com/user-attachments/assets/8e3079e6-1f68-4689-bb16-ca3b52d4b409)|
+     
+| ControllerAlerta          |  ![image](https://github.com/user-attachments/assets/8037e0d8-f973-44db-99fa-80882576d82b)|
+         
 
 ---
 
