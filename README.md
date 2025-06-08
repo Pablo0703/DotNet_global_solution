@@ -143,6 +143,23 @@ docker run -d -p 5000:80 global-solution
 ---
 
 ## 7. Ordem de Teste via JSON
+Para testar corretamente a aplicação via Swagger ou via API, siga a seguinte ordem de cadastro dos dados com base no JSON abaixo:
+
+Endpoints (via MVC)
+
+https://localhost:7203/Usuario
+
+https://localhost:7203/AreaRisco
+
+https://localhost:7203/Sensor
+
+https://localhost:7203/LeituraSensor
+
+https://localhost:7203/Alerta
+
+https://localhost:7203/InscricaoAlerta
+
+https://localhost:7203/Notificacao
 
 Para testar corretamente a aplicação via Swagger ou via API, siga a seguinte ordem de cadastro dos dados com base no JSON abaixo:
 
