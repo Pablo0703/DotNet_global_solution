@@ -1,121 +1,151 @@
+# SMAE - Sistema de Monitoramento de Áreas de Risco
 
-# Global Solution - SMAE (.NET)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
-Este repositório contém o projeto **SMAE - Sistema de Monitoramento de Áreas de Risco**, desenvolvido como parte da disciplina *Advanced Business Development with .NET*. A aplicação visa monitorar áreas de risco ambiental, utilizando sensores e alertas automatizados.
+## Tabela de Conteúdos
 
-## 📚 Descrição
+1. [Descrição do Projeto](#1-descrição-do-projeto)
+2. [Funcionalidades](#2-funcionalidades)
+3. [Arquitetura da Solução](#3-arquitetura-da-solução)
+4. [Tecnologias e Componentes](#4-tecnologias-e-componentes)
+5. [Guia de Execução](#5-guia-de-execução)
+6. [Demonstração (Evidências)](#6-demonstração-evidências)
+7. [Autores](#7-autores)
+8. [Licença](#8-licença)
 
-O **SMAE** é um sistema completo para gestão de usuários, sensores e áreas de risco. Ele permite o cadastro e o monitoramento contínuo de dados sensoriais, com emissão de alertas e notificações automatizadas em casos de perigo detectado.
+---
 
-O sistema pode ser utilizado por órgãos públicos, empresas privadas ou ONGs com o objetivo de prevenir desastres e mitigar riscos em áreas vulneráveis.
+## 1. Descrição do Projeto
 
-## 🧩 Funcionalidades
+O **SMAE** é um sistema voltado para o **monitoramento de áreas de risco ambiental**, com foco na prevenção de desastres naturais. A solução permite o cadastro de sensores em locais vulneráveis, leitura de dados em tempo real, disparo de alertas automatizados e envio de notificações a usuários inscritos.
 
-- **Usuários**
-  - Cadastro, edição e remoção de usuários do sistema
-- **Sensores**
-  - Cadastro de sensores responsáveis pela leitura ambiental
-- **Áreas de Risco**
-  - Registro de áreas críticas e suas informações geográficas
-- **Alertas**
-  - Definição de condições de risco e regras de disparo de alerta
-- **Inscrição em Alertas**
-  - Mecanismo para que usuários possam receber notificações específicas
-- **Notificações**
-  - Registro e envio de alertas automatizados para usuários
-- **Leituras de Sensores**
-  - Armazenamento e visualização de dados sensoriais em tempo real
- 
-  🔄 Sequência de Funcionamento do Sistema
-Cadastro de Usuário
+Este projeto foi desenvolvido como parte da disciplina **Advanced Business Development with .NET**, com o objetivo de entregar uma aplicação robusta utilizando tecnologias modernas do ecossistema Microsoft.
 
-Inicie criando os usuários que irão interagir com o sistema, como operadores ou responsáveis por áreas monitoradas.
+---
 
-Cadastro da Área de Risco
+## 2. Funcionalidades
 
-Registre as áreas que serão monitoradas. Cada área pode conter sensores associados e será base para alertas futuros.
+* ✅ **Gestão de Usuários:** cadastro, edição e exclusão.
+* ✅ **Cadastro de Sensores:** dispositivos que captam dados ambientais.
+* ✅ **Áreas de Risco:** definição de regiões críticas e monitoradas.
+* ✅ **Alertas Automatizados:** disparados com base em leituras fora dos parâmetros.
+* ✅ **Inscrição em Alertas:** usuários escolhem que tipos de notificações receber.
+* ✅ **Notificações em Tempo Real:** geração e registro de mensagens de alerta.
+* ✅ **Leituras Ambientais:** registro contínuo dos sensores (ex: temperatura, umidade).
 
-Cadastro de Sensor
+---
 
-Adicione sensores que serão posicionados nas áreas de risco. Esses sensores serão responsáveis por enviar leituras ambientais (temperatura, umidade, etc.).
+## 3. Arquitetura da Solução
 
-Registro de Leitura do Sensor
+```text
+Usuário ↔ API ASP.NET Core ↔ Banco de Dados SQL Server
+                          ↓
+                     Sistema de Alertas
+                          ↓
+                  Notificações por Evento
+```
 
-As leituras dos sensores são registradas no sistema, indicando os valores detectados em tempo real ou por intervalo.
+* A aplicação segue a arquitetura em **camadas** (Presentation, Application, Domain, Infrastructure).
+* Utiliza **EF Core** para persistência de dados.
+* **Swagger** para visualização e teste da API.
 
-Criação de Alerta
+---
 
-Configure alertas com base em condições específicas (ex: temperatura acima de 40°C). Esses alertas serão ativados quando leituras excederem os limites definidos.
+## 4. Tecnologias e Componentes
 
-Inscrição em Alerta
+### Backend
 
-Usuários podem se inscrever para receber alertas de áreas específicas ou tipos de risco. Isso garante que apenas interessados sejam notificados.
+* [.NET 8 / ASP.NET Core](https://dotnet.microsoft.com/)
+* Entity Framework Core
+* SQL Server
+* Swagger / OpenAPI
 
-Geração de Notificação
+### Infraestrutura
 
-Quando um alerta é ativado, o sistema gera automaticamente uma notificação para os usuários inscritos, alertando sobre o risco detectado.
+* Docker (opcional)
+* Visual Studio 2022
 
-## 🚀 Tecnologias Utilizadas
+### Organização do Projeto
 
-- .NET 8 / ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- Swagger / OpenAPI
-- Docker (opcional)
-- Visual Studio 2022
+```
+├── Application/       → Serviços e lógica de aplicação
+├── Domain/            → Entidades e regras de domínio
+├── Infrastructure/    → Repositórios e banco de dados
+├── Presentation/      → API Controllers (.NET)
+├── Views/             → Interface web (MVC)
+├── wwwroot/           → Arquivos estáticos (CSS, JS, imagens)
+├── Program.cs         → Configuração de inicialização
+└── appsettings.json   → Configurações de ambiente
+```
 
-## 📦 Estrutura do Projeto
+---
 
-- **Application/** – Serviços de aplicação e regras de negócio
-- **Domain/** – Entidades, interfaces e lógica de domínio
-- **Infrastructure/** – Repositórios, contexto do banco e integrações
-- **Presentation/** – API Controllers
-- **Views/** – Interface web (MVC)
-- **wwwroot/** – Arquivos estáticos (CSS, JS, imagens)
-- **Program.cs** – Configuração de inicialização
-- **appsettings.json** – Configurações da aplicação
+## 5. Guia de Execução
 
-## 🛠️ Como Rodar o Projeto
+### 5.1 Clonando o Repositório
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/Pablo0703/global-solution.git](https://github.com/Pablo0703/DotNet_global_solution)
-   ```
+```bash
+git clone https://github.com/Pablo0703/DotNet_global_solution.git
+```
 
-2. Abra o projeto com o Visual Studio 2022.
+### 5.2 Executando Localmente
 
-3. Atualize a connection string no arquivo `appsettings.json`.
+1. Abra o projeto no **Visual Studio 2022**
+2. Atualize a `ConnectionString` no arquivo `appsettings.json`
+3. Execute as migrações do banco:
 
-4. Execute as migrações (caso necessário):
-   ```bash
-   dotnet ef database update
-   ```
+```bash
+dotnet ef database update
+```
 
-5. Rode a aplicação:
-   ```bash
-   dotnet run
-   ```
+4. Inicie a aplicação:
 
-6. Acesse a API no navegador:
-   ```
-   http://localhost:<7203>/swagger
-   ```
+```bash
+dotnet run
+```
 
-## 🐳 Rodando com Docker
+5. Acesse via navegador:
+
+```
+http://localhost:7203/swagger
+```
+
+### 5.3 Executando com Docker (Opcional)
 
 ```bash
 docker build -t global-solution .
 docker run -d -p 5000:80 global-solution
 ```
 
-## 👨‍💻 Autores
+---
 
-- Diego Santos Cardoso
-- Pablo Lopes Doria de Andrade
-- Vinicius Leopoldino de Oliveira
-- FIAP - Global Solution 2025/1
+## 6. Demonstração (Evidências)
 
-## 📄 Licença
+### 6.1 Endpoints da API (Swagger)
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+| Controller                | Imagem                                         |
+| ------------------------- | ---------------------------------------------- |
+| ControllerUsuario         | ![image](https://github.com/user-attachments/assets/6a7f9237-c95e-4262-bcf3-75a3903fad90)
+      |
+| ControllerSensor          | ![](./imagens/controller-sensor.png)           |
+| ControllerNotificacao     | ![](./imagens/controller-notificacao.png)      |
+| ControllerLeituraSensor   | ![](./imagens/controller-leitura-sensor.png)   |
+| ControllerInscricaoAlerta | ![](./imagens/controller-inscricao-alerta.png) |
+| ControllerAreaRisco       | ![](./imagens/controller-area-risco.png)       |
+| ControllerAlerta          | ![](./imagens/controller-alerta.png)           |
 
+---
+
+## 7. Autores
+
+| RM     | Nome                            |
+| ------ | ------------------------------- |
+| 556834 | Pablo Lopes Doria de Andrade    |
+| 557047 | Vinicius Leopoldino de Oliveira |
+| 558711 | Diego Santos Cardoso            |
+
+---
+
+## 8. Licença
+
+Distribuído sob a licença [MIT](LICENSE).
