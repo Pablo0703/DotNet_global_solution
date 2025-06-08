@@ -10,7 +10,7 @@
 4. [Tecnologias e Componentes](#4-tecnologias-e-componentes)
 5. [Guia de Execução](#5-guia-de-execução)
 6. [Demonstração (Evidências)](#6-demonstração-evidências)
-7. [Ordem de Teste via JSON](#7-Ordem de Teste via JSON).
+7. [Ordem de Teste via JSON](#7-ordem-de-teste-via-json)
 8. [Autores](#8-autores)
 9. [Licença](#9-licença)
 
@@ -126,45 +126,122 @@ docker run -d -p 5000:80 global-solution
 
 | Controller                | Imagem                                         |
 | ------------------------- | ---------------------------------------------- |
-| ControllerUsuario         | ![image](https://github.com/user-attachments/assets/6a7f9237-c95e-4262-bcf3-75a3903fad90)
+| ControllerUsuario         | ![image](https://github.com/user-attachments/assets/dd60891a-3c06-4aac-8228-9ef197faa467)
+       |
+| ControllerSensor          | ![image](https://github.com/user-attachments/assets/ae4fd5c0-070b-4ff7-a80e-1d833f6ef311)
+          |
+| ControllerNotificacao     | ![image](https://github.com/user-attachments/assets/47346f24-369c-4f41-b555-3e87316bf8d8)
       |
-| ControllerSensor          | ![image](https://github.com/user-attachments/assets/8d1ed537-efca-4c3e-8144-f3a5e347e042)
-        |
-| ControllerNotificacao     | ![image](https://github.com/user-attachments/assets/43d67e09-4d2b-49ff-ba5b-571c16e2da50)
-      |
-| ControllerLeituraSensor   | ![image](https://github.com/user-attachments/assets/0b695fc1-10bc-47e5-9c70-5e244ab73f66)
-  |
-| ControllerInscricaoAlerta | ![image](https://github.com/user-attachments/assets/79efa09a-8c80-46c0-9e1c-2b2a7f902b87)
- |
-| ControllerAreaRisco       | ![image](https://github.com/user-attachments/assets/6b6effa8-9157-491c-a75e-028cdd33e346)
-      |
-| ControllerAlerta          | ![image](https://github.com/user-attachments/assets/f458229a-f468-4057-82f6-601c42cce6e9)
+| ControllerLeituraSensor   | ![image](https://github.com/user-attachments/assets/90d90718-6ff9-45a2-8d7f-512b0eecfdf8)
+   |
+| ControllerInscricaoAlerta | ![image](https://github.com/user-attachments/assets/08cf8fb2-97ac-40d8-9d1d-681d91699a01)
+|
+| ControllerAreaRisco       | ![image](https://github.com/user-attachments/assets/8e3079e6-1f68-4689-bb16-ca3b52d4b409)
+     |
+| ControllerAlerta          | ![image](https://github.com/user-attachments/assets/8037e0d8-f973-44db-99fa-80882576d82b)
          |
 
 ---
 
 ## 7. Ordem de Teste via JSON
 
+Para testar corretamente a aplicação via Swagger ou via API, siga a seguinte ordem de cadastro dos dados com base no JSON abaixo:
+
+{
+  "usuario": {
+    "NOME_USUARIO": "Joana Mendes",
+    "EMAIL": "joana@email.com",
+    "SENHA_HASH": "senhaSegura123",
+    "TELEFONE": "11988887777",
+    "TIPO_USUARIO": "CIDADAO"
+  },
+  "sensor": {
+    "ID_SENSOR": "SENSOR001",
+    "ID_AREA": 1,
+    "TIPO_SENSOR": "NIVEL_AGUA",
+    "MODELO": "Modelo-X",
+    "ULTIMA_MANUTENCAO": "2025-06-01",
+    "STATUS_SENSOR": "ATIVO"
+  },
+  "notificacao": {
+    "ID_ALERTA": 100,
+    "ID_USUARIO": 1,
+    "CANAL_ENVIO": "EMAIL"
+  },
+  "leituraSensor": {
+    "ID_SENSOR": "SENSOR001",
+    "VALOR_LEITURA": 2.8,
+    "UNIDADE_MEDIDA": "m"
+  },
+  "inscricaoAlerta": {
+    "ID_USUARIO": 1,
+    "ID_AREA": 1,
+    "RECEBER_EMAIL": 1,
+    "RECEBER_SMS": 0,
+    "RECEBER_PUSH": 1
+  },
+  "areaRisco": {
+    "NOME_AREA": "Bairro do Centro",
+    "LATITUDE": -23.5505,
+    "LONGITUDE": -46.6333,
+    "NIVEL_NORMAL_ESTACAO_SECA": 1.2,
+    "NIVEL_NORMAL_ESTACAO_CHUVA": 2.0,
+    "NIVEL_ALERTA_PREVENTIVO": 2.5,
+    "NIVEL_ALERTA_EMERGENCIA": 3.0,
+    "NIVEL_EVACUACAO": 3.5,
+    "AREA_ALAGADA_ALERTA": 1.5,
+    "AREA_ALAGADA_EMERGENCIA": 2.5,
+    "METODO_MEDICAO_NIVEL": "Sensor IoT",
+    "METODO_MEDICAO_EXTENSAO": "LIDAR",
+    "FONTE_DADOS": "Sistema Integrado",
+    "RESPONSAVEL_ATUALIZACAO": "Equipe Técnica",
+    "DESCRICAO": "Área próxima ao rio com alto risco em época de chuvas"
+  },
+  "alerta": {
+    "ID_AREA": 1,
+    "ID_LEITURA_GATILHO": 10,
+    "TIPO_ALERTA": "EMERGENCIA",
+    "MENSAGEM_ALERTA": "Nível crítico atingido, evacuação necessária."
+  }
+}
+
 Para testar corretamente a aplicação via Swagger ou via API, siga a seguinte ordem de cadastro dos dados com base no arquivo json_teste_dotnet.json:
 
-Cadastrar UsuárioEndpoint: POST /api/Usuario
+1. **Cadastrar Usuário**
+   Endpoint: `POST /api/Usuario`
 
-Cadastrar Área de RiscoEndpoint: POST /api/AreaRisco
+2. **Cadastrar Área de Risco**
+   Endpoint: `POST /api/AreaRisco`
 
-Cadastrar SensorEndpoint: POST /api/Sensor
+3. **Cadastrar Sensor**
+   Endpoint: `POST /api/Sensor`
 
-Cadastrar Leitura do SensorEndpoint: POST /api/LeituraSensor
+4. **Cadastrar Leitura do Sensor**
+   Endpoint: `POST /api/LeituraSensor`
 
-Cadastrar AlertaEndpoint: POST /api/Alerta
+5. **Cadastrar Alerta**
+   Endpoint: `POST /api/Alerta`
 
-Inscrição em AlertaEndpoint: POST /api/InscricaoAlerta
+6. **Inscrição em Alerta**
+   Endpoint: `POST /api/InscricaoAlerta`
 
-Cadastrar NotificaçãoEndpoint: POST /api/Notificacao
+7. **Cadastrar Notificação**
+   Endpoint: `POST /api/Notificacao`
 
 Essa ordem garante que todas as relações de chave estrangeira estejam corretamente criadas.
 
 ---
 
-## 8. Licença
+## 8. Autores
+
+| RM     | Nome                            |
+| ------ | ------------------------------- |
+| 556834 | Pablo Lopes Doria de Andrade    |
+| 557047 | Vinicius Leopoldino de Oliveira |
+| 558711 | Diego Santos Cardoso            |
+
+---
+
+## 9. Licença
 
 Distribuído sob a licença [MIT](LICENSE).
