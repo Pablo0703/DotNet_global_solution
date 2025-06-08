@@ -126,13 +126,19 @@ docker run -d -p 5000:80 global-solution
 
 | Controller                | Imagem                                         |
 | ------------------------- | ---------------------------------------------- |
-| ControllerUsuario         | ![](./imagens/controller-usuario.png)          |
-| ControllerSensor          | ![](./imagens/controller-sensor.png)           |
-| ControllerNotificacao     | ![](./imagens/controller-notificacao.png)      |
-| ControllerLeituraSensor   | ![](./imagens/controller-leitura-sensor.png)   |
-| ControllerInscricaoAlerta | ![](./imagens/controller-inscricao-alerta.png) |
-| ControllerAreaRisco       | ![](./imagens/controller-area-risco.png)       |
-| ControllerAlerta          | ![](./imagens/controller-alerta.png)           |
+| ControllerUsuario         | ![image](https://github.com/user-attachments/assets/88befdf5-5bc8-43d9-bb5d-8be1581281d0)|
+| ------------------------- | ---------------------------------------------- |
+| ControllerSensor          | ![image](https://github.com/user-attachments/assets/1c5dca52-2a3a-4363-8296-9fccb862e40b)|
+| ------------------------- | ---------------------------------------------- |
+| ControllerNotificacao     | ![image](https://github.com/user-attachments/assets/5966bc79-d2fd-4466-84f9-b23e801ed77b)|
+| ------------------------- | ---------------------------------------------- |
+| ControllerLeituraSensor   | ![image](https://github.com/user-attachments/assets/a524a410-7385-46a3-97d5-3c50503abdf5)|
+| ------------------------- | ---------------------------------------------- |
+| ControllerInscricaoAlerta | ![image](https://github.com/user-attachments/assets/0cc9dee6-5237-4ab9-924a-718b312b9be7)|
+| ------------------------- | ---------------------------------------------- |
+| ControllerAreaRisco       | ![image](https://github.com/user-attachments/assets/8bfb6afe-c515-457f-89f5-97d040b8641f)|
+| ------------------------- | ---------------------------------------------- |
+| ControllerAlerta          | ![image](https://github.com/user-attachments/assets/9846ab31-ef4e-4116-af50-dd4b01e425af)|
 
 ---
 
